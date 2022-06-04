@@ -42,6 +42,11 @@ This template should help get you started developing with Vue 3 in Vite using ta
 - [tailwindcss/line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp)
 - [tailwindcss/aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio)
 
+## Screenshots
+<p align="center">
+<img src="./.github/screenshots/home.png" alt="Home Screenshot" width="400" height="300"><img src="./.github/screenshots/about.png" alt="Home Screenshot" width="400" height="300"><img src="./.github/screenshots/error.png" alt="Home Screenshot" width="400" height="300">
+</p>
+
 ## 🖥️ Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/)
